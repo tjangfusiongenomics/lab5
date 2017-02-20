@@ -14,7 +14,6 @@ using System.Web.Http.Cors;
 namespace lab5application.Controllers
 {
     [EnableCors("*", "*", "GET")]
-    [Authorize]
     public class StudentsController : ApiController
     {
         private ApplicationDbContext db = new ApplicationDbContext();
