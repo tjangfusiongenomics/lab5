@@ -133,7 +133,9 @@ C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Microsoft
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Newtonsoft.Json.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Owin.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Net.Http.Formatting.dll
+C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Cors.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Helpers.dll
+C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.Cors.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.Owin.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.WebHost.dll
@@ -150,6 +152,7 @@ C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Microsoft
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Microsoft.ApplicationInsights.xml
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.Cors.xml
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Newtonsoft.Json.xml
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Net.Http.Formatting.xml
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Helpers.xml
@@ -182,6 +185,3 @@ C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.csproj.GenerateResource.Cache
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.pdb
-C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Cors.dll
-C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.Cors.dll
-C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\System.Web.Http.Cors.xml
