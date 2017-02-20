@@ -16,11 +16,13 @@ using Microsoft.Owin.Security.OAuth;
 using lab5application.Models;
 using lab5application.Providers;
 using lab5application.Results;
+using System.Web.Http.Cors;
 
 namespace lab5application.Controllers
 {
     [Authorize]
     [RoutePrefix("api/Account")]
+    [EnableCors("*","*","GET")]
     public class AccountController : ApiController
     {
         private const string LocalLoginProvider = "Local";

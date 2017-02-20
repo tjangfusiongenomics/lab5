@@ -1,0 +1,5 @@
+﻿enable-migrations -ContextTypeName ApplicationDbContext -MigrationsDirectory Migrations\Clinic
+
+add-migration -ConfigurationTypeName WebAPIandCORS.Migrations.Clinic.Configuration "InitialCreate"
+
+update-database -ConfigurationTypeName WebAPIandCORS.Migrations.Clinic.Configuration
