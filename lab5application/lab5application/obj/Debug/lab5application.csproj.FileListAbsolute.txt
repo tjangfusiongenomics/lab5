@@ -185,3 +185,6 @@ C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.csproj.GenerateResource.Cache
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.dll
 C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.pdb
+C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\Swashbuckle.Core.dll
+C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\bin\WebActivatorEx.dll
+C:\Users\tom\Desktop\bcit_asp\lab5\lab5application\lab5application\obj\Debug\lab5application.Migrations.Student.second.resources
